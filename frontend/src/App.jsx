@@ -1,0 +1,7 @@
+export default function App() {
+  return (
+    <div className="flex h-screen items-center justify-center bg-indigo-600 text-white text-4xl font-bold">
+      Tailwind 4.1 + Vite + React 🎨
+    </div>
+  )
+}
